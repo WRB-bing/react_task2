@@ -1,0 +1,37 @@
+{
+  "id": "2124368",
+  "name": "hhh",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13478668",
+      "name": "记录",
+      "font_class": "A",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "13478682",
+      "name": "我的",
+      "font_class": "A1",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "13478775",
+      "name": "购物车",
+      "font_class": "A2",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "13478796",
+      "name": "首页",
+      "font_class": "A3",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    }
+  ]
+}
